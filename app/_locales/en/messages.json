@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "WMDE TicTac",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "A collection of modifications for WMDE TicTac.",
+    "description": "The description of the application"
+  }
+}

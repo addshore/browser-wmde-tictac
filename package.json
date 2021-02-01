@@ -1,0 +1,12 @@
+{
+  "name": "wmde-tictac",
+  "version": "0.0.0",
+  "description": "wmde-tictac",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build --no-minimize"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}
