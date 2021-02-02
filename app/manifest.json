@@ -15,6 +15,7 @@
         "*://tictac.wikimedia.de/web*"
       ],
       "js": [
+        "scripts/correctdate.js",
         "scripts/dayofweek.js",
         "scripts/quicktableedit.js"
       ],

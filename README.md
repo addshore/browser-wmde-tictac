@@ -1,4 +1,20 @@
-# WMD TicTac
+# WMDE TicTac
+
+## Features
+
+All features are enabled by default.
+
+### Correct Date
+
+Details and image to come...
+
+### Day Of Week
+
+Details and image to come...
+
+### Quick Table Edit
+
+Details and image to come...
 
 ## Development
 
